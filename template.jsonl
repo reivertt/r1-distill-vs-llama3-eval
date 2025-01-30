@@ -1,0 +1,51 @@
+{        
+    "math":{
+        "problem":{
+            "task_id":"",
+            "instruction":"",
+            "placeholder":"",
+            "ground_truth":"",
+            "reasoning":"",
+            "flag":""
+        },
+        "answer":{
+            "deepseek": [
+                {
+                    "task_id":"",
+                    "is_correct":null,
+                    "output":""
+                },
+            ],
+            "llama": [
+                {
+                    "task_id":"",
+                    "is_correct":null,
+                    "output":""
+                },
+            ],
+        } 
+    },
+    "code":{
+        "problem": {
+            "task_id":"",
+            "prompt":"",
+            "canonical_solution":"",
+            "test":"",
+            "entry_point":""
+        },
+        "answer": {
+            "deepseek":[
+                {
+                    "task_id":"",
+                    "completion":""
+                }
+            ],
+            "llama":[
+                {
+                    "task_id":"",
+                    "completion":""
+                }
+            ]
+        }
+    }
+}

@@ -1,4 +1,3 @@
-Loaded 300 rows from problems
 ==================== 10 - HumanEval/10 ====================
 def make_palindrome(s: str) -> str:
     for l in range(len(s), 0, -1):
